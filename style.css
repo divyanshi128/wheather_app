@@ -1,0 +1,22 @@
+* Add your custom styles here */
+body {
+    background-color:yellow;
+  }
+  .weather {
+    background-color: skyblue;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+
+  footer{
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
+    align-content: center;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+  }
